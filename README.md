@@ -14,7 +14,7 @@ pytest -n 2 --reruns 1 --html=report.html
 ```
 
 ## 🌐 LambdaTest
-Login to [LambdaTest Dashboard](https://automation.lambdatest.com)  
+https://automation.lambdatest.com/share?shareId=HMMK5GEUW25KILGN6DATFF3P9GV1I35DKWH602BYZEZWYC3DD9S90XX4LT2GOQE7&isThemeEnabled=true&themeVersion=v2
 
 ## 📦 Project Features
 - Selenium with Pytest
